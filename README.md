@@ -4,14 +4,14 @@ advanced preprocessing, feature engineering, and robust modeling techniques to c
 transactions as legitimate or fraudulent. </p>
 
 <b> Dataset Overview </b>
-The dataset is got from the public kaggle dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+<p> The dataset is got from the public kaggle dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 Total Records: 284,807 transactions
 Features: 31 columns, including:
 - 28 PCA-transformed features (V1–V28)
 - Amout
 - Time
 - Class
-
+</p>
 <p> The dataset is highly imbalanced, with 9983% of the transactions being legitimate, and only 0.17% are fraudulent.</p>
 
 <b> Feature Engineering and Selection</b>
